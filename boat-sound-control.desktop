@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=boAt Sound Control
+Comment=boAt Nirvana Sound Control for Linux
+Exec=/home/og/.local/bin/boat-sound-control
+Type=Application
+Categories=AudioVideo;Audio;
+Keywords=sound;equalizer;boat;nirvana;eq;audio;
