@@ -72,6 +72,4 @@ boat-sound-control
 | Balanced | Flat/Vocal | Boosted mids for podcasts, calls, vocals |
 | Bass Boost | Bass heavy | Maximum sub-bass for EDM/hip-hop |
 
-## License
 
-MIT
